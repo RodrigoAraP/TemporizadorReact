@@ -21,7 +21,7 @@ Esta é uma solução para o [desafio do temporizador de contagem regressiva par
 
 Os usuários devem ser capazes de:
 
-- ✅ Ver estados de *hover* para todos os elementos interativos da página
+- ✅ Ver estados de _hover_ para todos os elementos interativos da página
 - ✅ Ver um temporizador de contagem regressiva ao vivo que diminui a cada segundo (inicia com 14 dias)
 - 🎁 **Bônus**: Quando um número mudar, o cartão vira a partir do meio (animação flip)
 
@@ -29,20 +29,20 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-*[EM BREVE]* 
+_[EM BREVE]_
 
 ### Links
 
-- Projeto online: *[EM BREVE]*
-- Solução no Frontend Mentor: *[EM BREVE]*
+- Projeto online: _[EM BREVE]_
+- Solução no Frontend Mentor: _[EM BREVE]_
 
 ## Meu processo
 
 ### Tecnologias Utilizadas
 
-- [React](https://reactjs.org/) 
-- [Next.js](https://nextjs.org/)  
-- [Tailwind CSS](https://tailwindcss.com/) 
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/pt/docs/)
 
 ### O que Aprendi
