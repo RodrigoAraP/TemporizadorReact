@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Rodape from "./rodape";
 
-export default function Background(props: any) {
+export default function Background(props: { children: React.ReactNode }) {
   return (
     <div className=" relative flex flex-col h-screen justify-center 
     bg-gradient-to-b from-[#191a24ff] to-[#1e1f29ff]
